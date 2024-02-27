@@ -6,12 +6,12 @@
 
 ## Installation and Import Packages
 
-1. Unzip(Extract) above "newsapp" Zipped Code base in a separate folder.
-2. Open the above extracted folder's ("newsapp") path in the Windows Terminal. (Select unzipped "newsapp" folder , then Right click , select 'Open in Terminal' option).
+1. Unzip(Extract) above "BlinkFeed-main" Zipped Code base in a separate folder.
+2. Open the above extracted folder's ("BlinkFeed-main") path in the Windows Terminal. (Select unzipped "BlinkFeed-main" folder , then Right click , select 'Open in Terminal' option).
 
-3. Run the Follwing commands in terminal Simultaneously in       "newsapp" base directory (Only once after Cloning repository, If already done then not required) :
+3. Run the Follwing commands in terminal Simultaneously in       "BlinkFeed-main" base directory (Only once after Cloning repository, If already done then not required) :
 ```bash
-  cd newsapp
+  cd BlinkFeed-main
 ```
 ```bash
   npm i
@@ -25,7 +25,7 @@
 Go to the project directory
 
 ```bash
-  cd newsapp
+  cd BlinkFeed-main
 ```
 
 Start the server
